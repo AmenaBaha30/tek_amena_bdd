@@ -83,4 +83,5 @@ public abstract class BaseSetup {
     public WebDriver getDriver() {
         return driver;
     }
+
 }
